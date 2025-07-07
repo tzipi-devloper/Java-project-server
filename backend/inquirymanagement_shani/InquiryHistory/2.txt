@@ -1,0 +1,11 @@
+className: Complaint
+folderName: Complaint
+code: 2
+creationDate: 2025-05-26T20:37:54.101200600
+description: hh
+documents: []
+status: ARCHIVED
+representativeId: 123
+representativeName: תהילה
+
+ assignedBranch: hhh
